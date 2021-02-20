@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Simple Calculator</string>
+  <string name="label_delete">del</string>
+  <string name="label_clear">C</string>
+  <string name="label_0">0</string>
+  <string name="label_plus">+</string>
+  <string name="label_7">7</string>
+  <string name="label_8">8</string>
+  <string name="label_9">9</string>
+  <string name="label_4">4</string>
+  <string name="label_5">5</string>
+  <string name="label_6">6</string>
+  <string name="label_3">3</string>
+  <string name="label_2">2</string>
+  <string name="label_1">1</string>
+  <string name="label_decimal">.</string>
+  <string name="label_equal">=</string>
+  <string name="label_minus">-</string>
+  <string name="label_multiply">*</string>
+  <string name="label_divide">/</string>
+  <string name="label_power">^</string>
+</resources>

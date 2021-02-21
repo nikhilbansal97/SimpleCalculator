@@ -13,3 +13,5 @@ jobs:
           java-version: 1.8
       - name: Print contents in current directory
         run: ls -la
+      - name: Unit Tests
+        run: ./gradlew testDebugUnitTest
